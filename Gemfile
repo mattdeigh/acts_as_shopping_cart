@@ -1,4 +1,6 @@
-source "https://rubygems.org"
+source "http://rubygems.org"
 
 # Specify your gem's dependencies in acts_as_shopping_cart.gemspec
 gemspec
+
+gem 'activerecord', '4.0.0'
